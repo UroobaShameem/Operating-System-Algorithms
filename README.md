@@ -4,5 +4,5 @@ It's designed to provide fair distribution of CPU time among multiple processes 
 This prevents any single process from monopolizing the CPU for an extended period.
 
 ## This repo contains two files:
-1. [final.py]
-2. [RoundRobbin.py]
+1. [./final.py]
+2. [./RoundRobbin.py]
